@@ -47,12 +47,4 @@ print("Permuted array", random.permutation(arr))
 
 
 
-
-
-
-
-
-
-
-
 <br/>
